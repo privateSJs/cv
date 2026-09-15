@@ -1,0 +1,87 @@
+{
+  "personalInfo": {
+    "title": "Dane osobowe",
+    "name": "Imię i nazwisko: ",
+    "email": "Email: ",
+    "phone": "Telefon: "
+  },
+
+  "about": {
+    "title": "O mnie",
+    "description": [
+      "Inżynier QA Automation z doświadczeniem w walidacji oprogramowania, automatyzacji testów oraz programowaniu w języku Python.",
+      "Specjalizuję się w rozwijaniu i utrzymywaniu frameworków testowych, usprawnianiu procesów testowych oraz wspieraniu jakości produktów na każdym etapie ich rozwoju.",
+      "Pasjonuję się automatyzacją, ciągłym doskonaleniem procesów oraz tworzeniem niezawodnych rozwiązań ograniczających pracę manualną i zwiększających jakość produktów."
+    ]
+  },
+
+  "experience": {
+    "title": "Doświadczenie"
+  },
+
+  "education": {
+    "title": "Wykształcenie",
+    "items": [
+      {
+        "degree": "Magister Inżynier Automatyki i Robotyki",
+        "school": "Politechnika Krakowska",
+        "period": "03.2023 - 02.2026"
+      },
+      {
+        "degree": "Inżynier Automatyki i Robotyki",
+        "school": "Politechnika Krakowska",
+        "period": "10.2019 - 02.2023"
+      },
+      {
+        "degree": "Technik Informatyk",
+        "school": "Technikum nr 4 w Przemyślu",
+        "period": "09.2015 - 05.2019"
+      }
+    ]
+  },
+
+  "skills": {
+    "title": "Umiejętności"
+  },
+
+  "projects": {
+    "title": "Projekty",
+    "items": [
+      {
+        "title": "Tubular Motor Validation",
+        "description": [
+          "Prowadzenie działań walidacyjnych dla rozwiązań opartych o silniki rurowe z wykorzystaniem testów manualnych i automatycznych.",
+          "Wspieranie procesu zapewnienia jakości poprzez identyfikację błędów, weryfikację wymagań oraz ocenę gotowości produktu przed jego wprowadzeniem na rynek."
+        ]
+      },
+      {
+        "title": "EVB NP Validation Automation Framework",
+        "description": [
+          "Współtworzenie frameworka automatyzacji testów opartego o Python i Behave.",
+          "Tworzenie nowych kroków testowych, rozwój istniejących scenariuszy automatycznych oraz usuwanie błędów poprzez proces Pull Request."
+        ]
+      },
+      {
+        "title": "Hardware Sensitivity Test Automation",
+        "description": [
+          "Tworzenie i utrzymanie rozwiązań automatyzujących walidację sprzętu przy użyciu Python i Pytest.",
+          "Przygotowywanie scenariuszy testowych wykorzystywanych podczas testów czułości oraz automatyzacja procesów laboratoryjnych."
+        ]
+      },
+      {
+        "title": "io-homecontrol Validation Framework",
+        "description": [
+          "Zaprojektowanie i implementacja frameworka testów automatycznych mającego zastąpić testy manualne starszych urządzeń opartych o protokół io-homecontrol.",
+          "Rozwiązanie umożliwia symulację urządzeń, emulację komunikacji protokołu oraz wykonywanie automatycznych scenariuszy walidacyjnych."
+        ]
+      },
+      {
+        "title": "Functional Validation Automation Management",
+        "description": [
+          "Rozwój platformy automatyzacji testów poprzez implementację interfejsów komunikacyjnych, rozbudowę modeli domenowych oraz tworzenie nowych scenariuszy walidacyjnych.",
+          "Praca zespołowa oparta o Pull Requesty oraz przeglądy kodu."
+        ]
+      }
+    ]
+  }
+}

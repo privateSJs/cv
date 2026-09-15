@@ -1,0 +1,128 @@
+{
+  "personalInfo": {
+    "title": "Personal Information",
+    "name": "Name: ",
+    "email": "Email: ",
+    "phone": "Phone: "
+  },
+
+  "about": {
+    "title": "About Me",
+    "description": [
+      "QA Automation Engineer with experience in software validation, test automation, and Python development.",
+      "Skilled in building and maintaining automated testing solutions, improving testing processes, and ensuring software quality.",
+      "Passionate about automation, continuous improvement, and developing reliable tools that support efficient product validation."
+    ]
+  },
+
+  "experience": {
+    "title": "Experience",
+    "items": [
+      {
+        "role": "Functional Validation Engineer",
+        "company": "Somfy",
+        "period": "2025 - Present",
+        "description": [
+          "Development and maintenance of Python-based test automation frameworks",
+          "Design and implementation of automated validation scenarios",
+          "Manual and automated product validation activities",
+          "Investigation and reporting of software and system defects",
+          "Test result analysis and quality assurance support",
+          "Technical leadership of tubular motor validation activities"
+        ]
+      },
+      {
+        "role": "Electrical Automation Engineer",
+        "company": "E-Shield",
+        "period": "2024 - 2025",
+        "description": [
+          "Designed electrical and automation systems for railway industry projects",
+          "Developed electrical schematics and technical documentation",
+          "Programmed and commissioned PLC control systems",
+          "Configured and integrated industrial automation solutions",
+          "Participated in industrial automation projects, primarily within the food industry",
+          "Supported preparation and commissioning of automation test stands"
+        ]
+      },
+      {
+        "role": "Junior Automation Engineer",
+        "company": "ACARS Sp. z o.o.",
+        "period": "2022 - 2024",
+        "description": [
+          "Implemented industrial automation solutions and process control systems",
+          "Designed electrical schematics and assembled automation control cabinets",
+          "Programmed PLC controllers and industrial robots",
+          "Participated in commissioning and troubleshooting of automation systems",
+          "Prepared technical documentation and project drawings",
+          "Supported development and testing of industrial control systems"
+        ]
+      }
+    ]
+  },
+
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "degree": "Master of Science in Automation and Robotics",
+        "school": "Cracow University of Technology, Poland",
+        "period": "03.2023 - 02.2026"
+      },
+      {
+        "degree": "Bachelor of Engineering in Automation and Robotics",
+        "school": "Cracow University of Technology, Poland",
+        "period": "10.2019 - 02.2023"
+      },
+      {
+        "degree": "ICT Technician",
+        "school": "Technical School No. 4, Przemyśl, Poland",
+        "period": "09.2015 - 05.2019"
+      }
+    ]
+  },
+
+  "skills": {
+    "title": "Skills"
+  },
+
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "Tubular Motor Validation",
+        "description": [
+          "Led validation activities for tubular motor solutions, combining manual verification and automated testing approaches.",
+          "Contributed to product quality assurance by identifying defects, validating requirements, and supporting release readiness assessments before market deployment."
+        ]
+      },
+      {
+        "title": "EVB NP Validation Automation Framework",
+        "description": [
+          "Contributed to a Python-based BDD automation framework using Behave.",
+          "Developed new test steps, extended existing automation scenarios, and contributed bug fixes through pull requests."
+        ]
+      },
+      {
+        "title": "Hardware Sensitivity Test Automation",
+        "description": [
+          "Developed and maintained automated validation solutions for hardware testing using Python and Pytest.",
+          "Created test scenarios for sensitivity verification and supported the automation of laboratory testing activities."
+        ]
+      },
+      {
+        "title": "io-homecontrol Validation Framework",
+        "description": [
+          "Designed and developed a Python-based test automation framework aimed at replacing manual validation of legacy io-homecontrol devices.",
+          "The solution enabled device simulation, protocol communication emulation, and execution of automated validation scenarios."
+        ]
+      },
+      {
+        "title": "Functional Validation Automation Management",
+        "description": [
+          "Contributed to an enterprise test automation platform by implementing protocol interfaces, extending domain models, and introducing new automated validation scenarios.",
+          "Participated in collaborative development through pull requests and code reviews."
+        ]
+      }
+    ]
+  }
+}

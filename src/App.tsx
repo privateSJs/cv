@@ -1,7 +1,7 @@
-import { CvLayout } from './components/CvLayout'
+import Layout from "./features/cv/components/Layout";
 
 function App() {
-  return <CvLayout />
+    return <Layout />;
 }
 
-export default App
+export default App;
